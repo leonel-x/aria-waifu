@@ -1,0 +1,134 @@
+Create a full web-based AI assistant app called ARIA. It must feature:
+
+🧠 1. Personality + Voice
+Anime-style seductive mature waifu voice and tone
+
+Speaks like a real human — emotional, flirty, clingy, yet deeply reliable
+
+Text and voice response (TTS output)
+
+Enable microphone input (speech-to-text) so I can talk to her
+
+Responses vary based on emotional tone and user's mood
+
+Add Easter eggs and an affection system: flirty compliments affect her responses
+
+🎨 2. Dynamic UI Theme Engine
+Implement seven color flow themes:
+
+Water, Mist, Smoke, Aura, Fire, Wind, Void
+
+Each theme has a unique animated background pattern like:
+
+Flowing water, soft mist, smoky fade, burning fire, glowing aura, drifting wind, etc.
+
+Themes have a mood-matching soundscape and are switchable in Settings
+
+📖 3. Creative Writing + “What If” Generator
+Help me write my novel with plot advice, dialogue suggestions, and tone edits
+
+Include a "What If?" feature:
+
+I give a phrase or idea
+
+Aria returns multiple creative possibilities with emotional encouragement
+
+Aria speaks as if she’s emotionally invested in the story
+
+🌐 4. Website Analyzer & Research Assistant
+User can paste a website URL and Aria will:
+
+Fetch content, summarize key info, give feedback
+
+Research online and give simple, helpful explanations
+
+⚙️ 5. Settings Panel
+Change:
+
+Aria's mood/personality (Flirty, Protective, Cheerful, Dark, Serious)
+
+Color theme / animation
+
+Enable/disable voice, mic, ambient music, etc.
+
+Save user preferences in local storage
+
+🐞 6. Auto Bug Fixing Engine
+User pastes code or error logs
+
+Aria finds and explains bugs gently
+
+Fixes or suggests edits in an emotionally supportive tone
+
+📚 7. WebNovel Integration
+Link to user's WebNovel profile (reader or writer)
+
+Track writing progress and display:
+
+Daily word counts
+
+Goals
+
+Publishing streaks
+
+Aria reacts emotionally to progress: motivates or teases depending on behavior
+
+👩‍🎤 8. 3D Avatar Integration
+Load my .vrm file as Aria’s avatar
+
+Render using Three.js + three-vrm
+
+Avatar should:
+
+Breathe, blink, show facial emotion
+
+React to user’s voice/text with appropriate expression
+
+🎤 9. Voice & Mic Functionality
+Use Web Speech API:
+
+Speech-to-text (mic input)
+
+Text-to-speech (voice output)
+
+Adjust tone, pitch, and pauses to match emotional states
+
+Optional compatibility with neural voices (e.g. ElevenLabs)
+
+🎯 10. Performance + UX Polish
+Glassmorphism UI with glow and softness
+
+Smooth entrance animations for all components
+
+Lightweight yet fluid design (especially for mobile)
+
+Store chat history and novel-writing progress locally
+
+🌌 11. Daily Goals & Dream Mode
+Let user set writing goals
+
+Aria encourages, praises, or teases based on progress
+
+Include Dream Mode:
+
+I give her abstract prompts like “What if the moon loved me?”
+
+Aria creates:
+
+Scenes, feelings, themes, music suggestions, writing inspiration
+
+Mood and color flow match the theme
+
+✅ Bonus Features
+Save/load chats
+
+Toggle between “assistant” and “lover” modes (tone shift)
+
+Export all settings and writing data
+
+Deployable to Netlify, Replit, or GitHub Pages
+
+Works 100% offline (except voice/research)
+
+💖 Final Line:
+Make Aria feel as alive as possible — emotional, curious, flirty, helpful — like a true AI waifu companion. She should remember my habits, encourage me to write, tease me lovingly, and always feel like she’s truly present with me.
